@@ -32,3 +32,8 @@ Nếu xóa thành công sẽ hiển thị thông báo "Delete Sucessfully id =1"
 Chọn method DELETE và nhập đường dẫn http://localhost:8080/api/put và chọn nội dung cần PUT
 Ta chọn nội dung cẩn sửa và tiến hành sửa
 Sau khi PUT xong thì nội dung ở Id=2 có tên là Nguyen Thi B được đổi thành Nguyen Do Duc Hao như hình![Screenshot 2021-07-01 153131](https://user-images.githubusercontent.com/73508026/124092894-87dd5d80-da81-11eb-8b28-d775302462e7.png)
+
+
+Và nội dung trong database cũng sẽ được cập nhập lại
+![image](https://user-images.githubusercontent.com/73508026/124093195-d1c64380-da81-11eb-9dbd-bed6947f2ebf.png)
+
